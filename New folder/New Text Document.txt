@@ -1,0 +1,5 @@
+References
+In this section, we'll be following this article by David Blei, Andrew Ng, and Michael Jordan.
+
+Latent Dirichlet Allocation
+http://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf
